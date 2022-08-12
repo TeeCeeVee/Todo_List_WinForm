@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\ListBoxApp\bin\Debug\ListBoxApp.exe.config
+C:\Users\theav\source\repos\ListBoxApp\bin\Debug\ListBoxApp.exe
+C:\Users\theav\source\repos\ListBoxApp\bin\Debug\ListBoxApp.pdb
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.FrmListBox.resources
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.Properties.Resources.resources
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.exe
+C:\Users\theav\source\repos\ListBoxApp\obj\Debug\ListBoxApp.pdb
